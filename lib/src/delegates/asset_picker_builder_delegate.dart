@@ -2606,7 +2606,7 @@ class DefaultAssetPickerBuilderDelegate
                   appleOSLayout(context)
                 else
                   androidLayout(context),
-                permissionOverlay(context),
+                //     permissionOverlay(context),
               ],
             ),
           ),
